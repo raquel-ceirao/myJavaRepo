@@ -2,6 +2,7 @@ package org.academiadecodigo.anderdogs.grid;
 
 import org.academiadecodigo.simplegraphics.graphics.Color;
 import org.academiadecodigo.simplegraphics.graphics.Rectangle;
+
 import static org.academiadecodigo.anderdogs.grid.Grid.CELL_SIZE;
 import static org.academiadecodigo.anderdogs.grid.Grid.PADDING;
 
@@ -48,4 +49,9 @@ public class Cell {
         return col;
     }
 
+    //how this translates to string, link to grid
+    @Override
+    public String toString() {
+        return painted ? "1" : "0";
+    }
 }

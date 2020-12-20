@@ -49,4 +49,18 @@ public class Grid {
     public int getNumberOfCols() {
         return numberOfCols;
     }
+
+    //save file transforming grid to string
+    @Override
+    public String toString() {
+
+        StringBuilder strBuilder = new StringBuilder();
+        for (int i = 0; i < numberOfRows; i++) {
+            for (int j = 0; j < numberOfCols; j++) {
+                strBuilder.append(cells[i][j]);
+            }
+            strBuilder.append("\n");
+        }
+        return strBuilder.toString();
+    }
 }

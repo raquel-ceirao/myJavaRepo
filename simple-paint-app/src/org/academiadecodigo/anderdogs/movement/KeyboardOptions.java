@@ -1,10 +1,15 @@
 package org.academiadecodigo.anderdogs.movement;
 
+import org.academiadecodigo.anderdogs.FileEditor;
 import org.academiadecodigo.anderdogs.PaintApp;
 import org.academiadecodigo.simplegraphics.keyboard.Keyboard;
 import org.academiadecodigo.simplegraphics.keyboard.KeyboardEvent;
 import org.academiadecodigo.simplegraphics.keyboard.KeyboardEventType;
 import org.academiadecodigo.simplegraphics.keyboard.KeyboardHandler;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 
 public class KeyboardOptions implements KeyboardHandler {
 
@@ -55,24 +60,32 @@ public class KeyboardOptions implements KeyboardHandler {
         cPressed.setKey(KeyboardEvent.KEY_C);
         cPressed.setKeyboardEventType(KeyboardEventType.KEY_PRESSED);
         keyboard.addEventListener(cPressed);
+
+        //Listen to S key
+        KeyboardEvent sPressed = new KeyboardEvent();
+        sPressed.setKey(KeyboardEvent.KEY_S);
+        sPressed.setKeyboardEventType(KeyboardEventType.KEY_PRESSED);
+        keyboard.addEventListener(sPressed);
     }
 
     @Override
     public void keyPressed(KeyboardEvent keyboardEvent) {
 
-        if(keyboardEvent.getKey() == KeyboardEvent.KEY_UP) {
+        if (keyboardEvent.getKey() == KeyboardEvent.KEY_UP) {
             paintApp.moveCellPainter(Direction.UP);
-        } else if(keyboardEvent.getKey() == KeyboardEvent.KEY_DOWN) {
+        } else if (keyboardEvent.getKey() == KeyboardEvent.KEY_DOWN) {
             paintApp.moveCellPainter(Direction.DOWN);
-        } else if(keyboardEvent.getKey() == KeyboardEvent.KEY_LEFT) {
+        } else if (keyboardEvent.getKey() == KeyboardEvent.KEY_LEFT) {
             paintApp.moveCellPainter(Direction.LEFT);
-        } else if(keyboardEvent.getKey() == KeyboardEvent.KEY_RIGHT) {
+        } else if (keyboardEvent.getKey() == KeyboardEvent.KEY_RIGHT) {
             paintApp.moveCellPainter(Direction.RIGHT);
-        } else if(keyboardEvent.getKey() == KeyboardEvent.KEY_SPACE) {
+        } else if (keyboardEvent.getKey() == KeyboardEvent.KEY_SPACE) {
             paintApp.setPainting(false);
             paintApp.paintCell();
-        } else if(keyboardEvent.getKey() == KeyboardEvent.KEY_C) {
+        } else if (keyboardEvent.getKey() == KeyboardEvent.KEY_C) {
             paintApp.clear();
+        } else if (keyboardEvent.getKey() == KeyboardEvent.KEY_S) {
+            paintApp.save();
         }
 
     }

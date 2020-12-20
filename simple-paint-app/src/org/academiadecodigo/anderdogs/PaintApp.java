@@ -10,16 +10,18 @@ public class PaintApp {
     private Grid grid;
     private CellPainter cellPainter;
     private boolean painting;
+    private FileEditor fileEditor;
 
     public PaintApp(int rows, int cols) {
         grid = new Grid(rows, cols);
         cellPainter = new CellPainter();
+        fileEditor = new FileEditor();
     }
 
     //movement
     public void moveCellPainter(Direction direction) {
 
-        switch(direction) {
+        switch (direction) {
             case UP:
                 cellPainter.moveUp();
                 break;
@@ -34,7 +36,7 @@ public class PaintApp {
                 break;
         }
 
-        if(painting) {
+        if (painting) {
             paintCell();
         }
     }
@@ -42,7 +44,7 @@ public class PaintApp {
     //action: paint cell
     public void paintCell() {
         Cell cell = grid.getCell(cellPainter.getRow(), cellPainter.getCol());
-        if(cell.isPainted()) {
+        if (cell.isPainted()) {
             cell.erase();
         } else {
             cell.paint();
@@ -52,6 +54,11 @@ public class PaintApp {
     //action: clear grid
     public void clear() {
         grid.clearGrid();
+    }
+
+    //action: save grid
+    public void save() {
+        fileEditor.saveToFile(grid.toString());
     }
 
     //setters

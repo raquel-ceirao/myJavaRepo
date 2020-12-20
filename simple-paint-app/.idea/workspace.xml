@@ -20,37 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89650e0a-939b-4979-b0ce-b3e9c46910fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/simplegraphics.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/paint.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/PaintApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/CellPainter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/Grid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/movement/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/movement/KeyboardOptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arabian-nights/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arabian-nights/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arabian-nights/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../arabian-nights/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arabian-nights/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/01-modules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/02-functions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/03-prototypes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/04-classical.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/05-errors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/06-timers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/01-modules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/02-functions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/03-prototypes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/04-classical.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/05-errors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/06-timers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paint/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../paint/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../paint/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../paint/out/production/paint/org/academiadecodigo/anderdogs/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/../paint/out/production/paint/org/academiadecodigo/anderdogs/Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/FileEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/paint.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/paint.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/PaintApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/PaintApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/CellPainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/CellPainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/Grid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/movement/KeyboardOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/movement/KeyboardOptions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,26 +119,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="42" key="#Project_Structure/0.0.1440.900/-1600.0.1600.900@0.0.1440.900" timestamp="1608400512361" />
-    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1608408706933">
+    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1608484951268">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1608408706933" />
-    <state width="1238" height="203" key="GridCell.Tab.0.bottom" timestamp="1608425426737">
+    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1608484951268" />
+    <state width="1238" height="203" key="GridCell.Tab.0.bottom" timestamp="1608486749289">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1608425426737" />
-    <state width="1238" height="203" key="GridCell.Tab.0.center" timestamp="1608425426735">
+    <state width="1238" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1608486749289" />
+    <state width="1238" height="203" key="GridCell.Tab.0.center" timestamp="1608486749288">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1608425426735" />
-    <state width="1238" height="203" key="GridCell.Tab.0.left" timestamp="1608425426734">
+    <state width="1238" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1608486749288" />
+    <state width="1238" height="203" key="GridCell.Tab.0.left" timestamp="1608486749287">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1608425426734" />
-    <state width="1238" height="203" key="GridCell.Tab.0.right" timestamp="1608425426736">
+    <state width="1238" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1608486749287" />
+    <state width="1238" height="203" key="GridCell.Tab.0.right" timestamp="1608486749289">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1608425426736" />
+    <state width="1238" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1608486749289" />
     <state x="262" y="97" key="NewModule_or_Project.wizard" timestamp="1608407943994">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
