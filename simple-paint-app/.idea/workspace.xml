@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89650e0a-939b-4979-b0ce-b3e9c46910fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/simplegraphics.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/paint.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/PaintApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/CellPainter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/grid/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/movement/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/anderdogs/movement/KeyboardOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arabian-nights/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arabian-nights/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arabian-nights/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arabian-nights/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arabian-nights/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/01-modules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/02-functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/03-prototypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/04-classical.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/05-errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/src/js-deep/06-timers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/01-modules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/02-functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/03-prototypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/04-classical.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/05-errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-deep/test/js-deep/06-timers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paint/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../paint/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../paint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paint/out/production/paint/org/academiadecodigo/anderdogs/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/../paint/out/production/paint/org/academiadecodigo/anderdogs/Cell.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lszI4UjFgx0EdMI1r9ZYOCzaH2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.anderdogs.Main" />
+      <module name="simple-paint-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.academiadecodigo.anderdogs.grid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89650e0a-939b-4979-b0ce-b3e9c46910fe" name="Default Changelist" comment="" />
+      <created>1608400506360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608400506360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="42" key="#Project_Structure" timestamp="1608400512361">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="42" key="#Project_Structure/0.0.1440.900/-1600.0.1600.900@0.0.1440.900" timestamp="1608400512361" />
+    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1608408706933">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1608408706933" />
+    <state width="1238" height="203" key="GridCell.Tab.0.bottom" timestamp="1608425426737">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1608425426737" />
+    <state width="1238" height="203" key="GridCell.Tab.0.center" timestamp="1608425426735">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1608425426735" />
+    <state width="1238" height="203" key="GridCell.Tab.0.left" timestamp="1608425426734">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1608425426734" />
+    <state width="1238" height="203" key="GridCell.Tab.0.right" timestamp="1608425426736">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1608425426736" />
+    <state x="262" y="97" key="NewModule_or_Project.wizard" timestamp="1608407943994">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="262" y="97" key="NewModule_or_Project.wizard/0.0.1280.800@0.0.1280.800" timestamp="1608407943994" />
+    <state x="239" y="33" key="new project wizard" timestamp="1608407964115">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="239" y="33" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1608407964115" />
+  </component>
+</project>
