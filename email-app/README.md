@@ -11,4 +11,5 @@ Specifications:
 
 Updates: 
 * General outline of the app defined
-* Work in progress: Create constructor and methods
+* Added methods to complete the requirements
+* Work in progress: Improvements
