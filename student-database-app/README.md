@@ -13,4 +13,5 @@ Specifications:
 
 Updates: 
 * General outline of the app defined
-* Work in progress.
+* Finished the basic app
+* To do: Restrict the class options
