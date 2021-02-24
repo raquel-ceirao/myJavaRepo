@@ -18,11 +18,11 @@ public abstract class Account implements InterestRate { //implement from somewhe
         this.name = name;
         this.socialSecurityNumber = socialSecurityNumber;
         balance = initialDeposit;
-        //System.out.println("NAME: " + name + "; Social Security Number: " + socialSecurityNumber + "; Balance: €" + balance);
 
         //set account number
         index++;
         this.accountNumber = setAccountNumber();
+        System.out.println(getBaseRate());
     }
 
     //common methods
